@@ -1,31 +1,19 @@
-# Abhi Savaliya — Personal Portfolio
+# Abhi / Creative Archive
 
-A responsive personal resume/portfolio website built with semantic HTML5 and CSS3.
+A responsive personal portfolio for Abhi Savaliya.
 
-## Files
-- `index.html` — page structure and content
-- `style.css` — visual design, layout, hover effects and responsive styles
-- `assets/` — portrait, project visuals and certificates
-
-## Run locally
-1. Download and unzip this folder.
-2. Open the folder in Visual Studio Code.
-3. Open `index.html` in a browser (or use the Live Server extension if installed).
+## Preview locally
+Open `index.html` in a modern browser. Keep the `assets` folder, `style.css`, and `script.js` beside it.
 
 ## Publish with GitHub Pages
-1. Create a new public repository, for example `abhi-portfolio`.
-2. Upload the contents of this folder (not the ZIP file itself).
-3. In the repository, open **Settings → Pages**.
-4. Under Build and deployment, select **Deploy from a branch**.
-5. Select branch `main`, folder `/ (root)`, then Save.
-6. Wait for GitHub Pages to publish the site. The live URL will appear in the Pages settings.
+1. Extract this ZIP.
+2. In your `abhi-portfolio` GitHub repository, replace the existing site files with the contents of this folder.
+3. Upload the `assets` folder as well as `index.html`, `style.css`, and `script.js`.
+4. Commit changes.
+5. In Settings → Pages, publish from `main` and the root (`/`).
 
-## Before submitting
-- Verify all personal details and dates.
-- Confirm the Zolon role description and exhibition wording are accurate.
-- Replace or remove any work samples that should not be public.
-- Confirm with the instructor that a new repository is acceptable, since the assignment instructions mention updating an existing repository.
-- Add the final live website and repository URLs to the 1–2 page project PDF.
+The site uses Google Fonts; those fonts need an internet connection. Local project images and certificates are included.
 
-## Design and implementation notes
-The site uses CSS custom properties, element and class selectors, Flexbox, CSS Grid, responsive media queries, hover transitions, typography hierarchy, spacing and image cropping. No JavaScript framework is used.
+Visual polish update: richer page texture, editorial typography, decorative project framing and larger project captions. Existing layout, images, content and signature money counter remain intact.
+
+Final showdown update: added a Zolon Architectural Hardware experience entry using the Social Media & Content Creation description; added richer atmospheric backgrounds, layered grids, oversized typography, decorative section treatments and improved visual depth. Employment dates are intentionally not stated because the public LinkedIn preview did not expose them.
